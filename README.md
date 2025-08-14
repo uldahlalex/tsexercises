@@ -13,6 +13,10 @@ npm install
 
 I recommend you run tests from Webstorm 
 
+![Alt text](/img.png)
+
+
+
 You can also use CLI:
 
 Run all tests:

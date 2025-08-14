@@ -2,8 +2,7 @@
 
 // Exercise 1: Get the length of a string
 export function getStringLength(str: string): number {
-  // TODO: Return the length of the string
-  return 0;
+  return str.length;
 }
 
 // Exercise 2: Convert string to uppercase
